@@ -1,0 +1,10 @@
+Package: com.5px.finical
+Name: Finical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Swipe away to dismiss the lockscreen player
+Maintainer: FivePixels
+Author: FivePixels
+Section: Tweaks
+Version: 1.0
+Installed-Size: 284
